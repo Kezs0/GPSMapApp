@@ -5,7 +5,6 @@ Aplicación Android que muestra la ubicación actual del usuario en Google Maps.
 ## Características
 - Muestra un mapa con Google Maps.
 - Obtiene y marca la ubicación actual del usuario.
-- Solicita permisos de ubicación en tiempo de ejecución.
 
 ## Instalación
 1. Clona este repositorio: 'git clone https://github.com/Kezs0/GPSMapApp.git'
